@@ -37,5 +37,7 @@ WorkFlow Studio - é onde voce provisiona o seu trabalho, tem o menu de ações,
 Para saber o preço do AWS Step Functions pode consultar a calculadora e saber quais serviços irá utilizar, e verificar o preço também do BedRock
 
 Prática
-Primeiro clicar em criar máquina de estado, depois clicar em execute o encadeamento de prompts de IA com o Amazon Bedrock e clica em utilizar o modelo, habilitar todas as permissões no IAM, tem que verificar em cada api e ativar o bedrock em cada uma deles,
+Primeiro clicar em criar máquina de estado, depois clicar em execute o encadeamento de prompts de IA com o Amazon Bedrock e clica em utilizar o modelo, habilitar todas as permissões no IAM, tem que verificar em cada api e ativar o bedrock em cada uma deles, insira o modelo correspondente a sua região.
+
+E cada tarefa tem que ser feita para o seu AWS Step Functions funcionar corretamente e mostrará o resultado do aplicativo de delivery.
 
